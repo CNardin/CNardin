@@ -1,3 +1,12 @@
+<!-- Your badges -->
+![](https://komarev.com/ghpvc/?username=CNardin&style=flat)
+[![Linkedin](https://img.shields.io/badge/-CNardin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/CNardin)
+[![Gmail](https://img.shields.io/badge/-CNardin-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chiara.nardin@unitn.it)
+[![Github](https://img.shields.io/badge/-CNardin-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/CNardin)
+
+<!-- Profile View Count and GitStats -->
+
+
 ### Hi there 👋
 I'm Chiara, a young PhD student 
 - 🔎 working in the field of earthquake engineering
@@ -5,6 +14,7 @@ I'm Chiara, a young PhD student
 - 💬 Ask me about risk and reliability analysis for civil and industrial systems
 - 📫 How to reach me: chiara.nardin@unitn.it
 - ⚡ Fun fact: I just started to use Ansys APDL and Emacs!
+
 
 
 <p>
@@ -16,8 +26,7 @@ I'm Chiara, a young PhD student
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CNardin&color=yellow&style=flat-square" alt="CNardin" />
-<a href="https://www.linkedin.com/in/chiaranardin"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
   
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/andreas-karabetian/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreas-karabetian" height="30" width="30" /></a>
